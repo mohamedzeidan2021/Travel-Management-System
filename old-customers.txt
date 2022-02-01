@@ -1,0 +1,35 @@
+
+Customer ID: 1234
+Name: Mohamed
+Age: 18
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 123
+Name: Mo
+Age: 18
+Mobile Number: 7141231234
+Address: 1234
+Gender: hello
+
+Customer ID: 123
+Name: Mohaemd
+Age: 123
+Mobile Number: 123432452342
+Address: 
+Gender: 060
+
+Customer ID: 123
+Name: m
+Age: 1
+Mobile Number: 12343
+Address: 
+Gender: 2
+
+Customer ID: 1235
+Name: Moha
+Age: 2
+Mobile Number: 3
+Address: 213
+Gender: Male

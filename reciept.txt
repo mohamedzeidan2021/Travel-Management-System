@@ -1,0 +1,12 @@
+----ABC Travel Agency----
+---------Receipt---------
+__________________________
+Customer ID: 0
+
+Description		 Total
+Hotel cost:		 0.00
+Travel (cab) cost:	 0.00
+__________________________
+Total Charge:		 0.00
+__________________________
+--------Thank you---------
